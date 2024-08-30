@@ -29,7 +29,7 @@ export default function Banner() {
             </label>
 
           </div>
-          <button className="btn btn-active btn-secondary mt-6 px-10 py-3 text-lg font-semibold">Secondary</button>
+          <button className="btn btn-active btn-secondary mt-6 px-10 py-3 text-lg font-semibold">Get Started</button>
         </div>
 
         {/* Wrapper div for the image with background color */}
